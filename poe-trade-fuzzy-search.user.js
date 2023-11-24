@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         poe-trade-fuzzy-search
-// @namespace
+// @namespace    https://github.com/D4Enjoyer/poe-trade-fuzzy-search
 // @version      1.0
 // @description  Automatically activates Fuzzy Search on the Path of Exile Trade website, while letting the user easily run custom searches containing asterisks (placeholder)
 // @author       A God Gamer with his dear friend ChatGPT
