@@ -1,4 +1,4 @@
-# poe-trade-fuzzy-search
+# poe-trade-fuzzy-search - [Install Link](https://github.com/D4Enjoyer/poe-trade-fuzzy-search/raw/main/poe-trade-fuzzy-search.user.js)
 
 ## Description
 
@@ -20,7 +20,7 @@ The script utilizes event listeners to detect keyboard input and modify search q
 ## Installation
 
 1. **Install a Userscript Manager**: Use a browser extension like Tampermonkey.
-2. **Install the Script**: Add the script to your userscript manager by clicking on the
+2. **Install the Script**: Add the script to your userscript manager by clicking on the [Install Link](https://github.com/D4Enjoyer/poe-trade-fuzzy-search/raw/main/poe-trade-fuzzy-search.user.js) or in any other way that you prefer.
 
 ## Usage
 
