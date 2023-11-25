@@ -10,8 +10,7 @@
 
 let fuzzySearchActivated = true;
 
-document.body.addEventListener("keydown", handleFuzzySearch);
-document.body.addEventListener("paste", function(e) {setTimeout(handleFuzzySearch, 0, e)});
+document.body.addEventListener("input", function(e) {setTimeout(handleFuzzySearch, 0, e)});
 
 // Function to handle the main fuzzy search logic
 function handleFuzzySearch(e) {
