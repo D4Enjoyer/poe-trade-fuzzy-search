@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Automatically activates Fuzzy Search on the Path of Exile Trade website, while letting the user easily run custom searches containing asterisks (placeholder)
 // @author       A God Gamer with his dear friend ChatGPT
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=pathofexile.com
 // @match        https://www.pathofexile.com/trade*
 // @grant        none
 // ==/UserScript==
